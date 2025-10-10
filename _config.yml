@@ -1,0 +1,36 @@
+# Site settings
+title: "Archit Yemula - RCOS Portfolio"
+description: "Personal portfolio and project showcase for RCOS"
+author: "Archit Yemula"
+email: "yemula.archit@gmail.com"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+
+# Social links
+social:
+  - name: "GitHub"
+    url: "https://github.com/archityemula"
+  - name: "LinkedIn"
+    url: "https://linkedin.com/in/archit-yemula"
+
+# Exclude from processing
+exclude:
+  - README.md
+  - LICENSE
+  - first.py
+  - woody.png
