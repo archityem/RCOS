@@ -107,7 +107,7 @@ This is a personal portfolio repository, but suggestions and feedback are welcom
 
 ## 📞 Contact
 
-- **Email**: yemula.archit@gmail.com
+- **Email**: archit@yemula.com
 - **GitHub**: [@archityemula](https://github.com/archityemula)
 - **LinkedIn**: [Archit Yemula](https://linkedin.com/in/archit-yemula)
 
