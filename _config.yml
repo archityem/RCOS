@@ -2,7 +2,7 @@
 title: "Archit Yemula - RCOS Portfolio"
 description: "Personal portfolio and project showcase for RCOS"
 author: "Archit Yemula"
-email: "yemula.archit@gmail.com"
+email: "archit@yemula.com"
 
 # Build settings
 markdown: kramdown
@@ -32,5 +32,3 @@ social:
 exclude:
   - README.md
   - LICENSE
-  - first.py
-  - woody.png
